@@ -1,4 +1,5 @@
 # hello-world
 Aoki no test desu. 
 
-kore ga branch
+branch1 de Kore wo tsuika shimashita.
+
